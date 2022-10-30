@@ -4,3 +4,6 @@
 [submodule "codecademy-learn-javascript"]
 	path = codecademy-learn-javascript
 	url = git@github.com:somekindofwallflower/codecademy-learn-javascript.git
+[submodule "codecademy-pass-the-technical-interview-with-javascript"]
+	path = codecademy-pass-the-technical-interview-with-javascript
+	url = git@github.com:somekindofwallflower/codecademy-pass-the-technical-interview-with-javascript.git
