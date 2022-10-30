@@ -1,3 +1,6 @@
 [submodule "codecademy-learn-react-2022"]
 	path = codecademy-learn-react-2022
 	url = https://github.com/somekindofwallflower/codecademy-learn-react-2022
+[submodule "codecademy-learn-javascript"]
+	path = codecademy-learn-javascript
+	url = git@github.com:somekindofwallflower/codecademy-learn-javascript.git
