@@ -10,3 +10,6 @@
 [submodule "codecademy-full-stack-engineer"]
 	path = codecademy-full-stack-engineer
 	url = git@github.com:somekindofwallflower/codecademy-full-stack-engineer.git
+[submodule "codecademy-intermediate-javascript"]
+	path = codecademy-intermediate-javascript
+	url = git@github.com:somekindofwallflower/codecademy-intermediate-javascript.git
