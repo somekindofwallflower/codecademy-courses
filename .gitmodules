@@ -7,3 +7,6 @@
 [submodule "codecademy-pass-the-technical-interview-with-javascript"]
 	path = codecademy-pass-the-technical-interview-with-javascript
 	url = git@github.com:somekindofwallflower/codecademy-pass-the-technical-interview-with-javascript.git
+[submodule "codecademy-full-stack-engineer"]
+	path = codecademy-full-stack-engineer
+	url = git@github.com:somekindofwallflower/codecademy-full-stack-engineer.git
